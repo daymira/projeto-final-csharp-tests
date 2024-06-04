@@ -41,16 +41,23 @@ while(exibirMenu){
             break;
         case "4":
             Console.Write("1°: ");
-            n1 = int.Parse(Console.ReadLine());
+            decimal p1 = Decimal.Parse(Console.ReadLine());
             Console.Write("2°: ");
-            n2 = int.Parse(Console.ReadLine());
-            Console.WriteLine($"{n1} / {n2} = {calc.Dividir(n1,n2)}");
+            decimal p2 = Decimal.Parse(Console.ReadLine());
+            try
+            { 
+                Console.WriteLine($"{p1} / {p2} = {calc.Dividir(p1,p2)}");
+            }
+            catch(DivideByZeroException e)
+            {
+                Console.WriteLine(e);
+            }
             break;
         case "5":
             Console.Write("O número que deseja saber a porcentagem: ");
-            decimal p1 = Decimal.Parse(Console.ReadLine());
+            p1 = Decimal.Parse(Console.ReadLine());
             Console.Write("Porcentagem: ");
-            decimal p2 = int.Parse(Console.ReadLine());
+            p2 = int.Parse(Console.ReadLine());
             Console.WriteLine($"{p2}% de {p1} = {calc.Porcentagem(p1,p2)}");
             break;
         case "6":

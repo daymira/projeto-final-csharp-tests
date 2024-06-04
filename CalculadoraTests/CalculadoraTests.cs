@@ -47,9 +47,9 @@ public class CalculadoraTests
     [InlineData(9,3,3)]
     [InlineData(20,5,4)]
     [InlineData(10,5,2)]
-    public void DivisaoTeste(int n1, int n2, int resultado)
+    public void DivisaoTeste(decimal n1, decimal n2, decimal resultado)
     {
-        int resultadoDivisao = _calc.Dividir(n1, n2);
+        decimal resultadoDivisao = _calc.Dividir(n1, n2);
 
         Assert.Equal(resultado, resultadoDivisao);
     }

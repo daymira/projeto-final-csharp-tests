@@ -12,3 +12,4 @@ C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net
 C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json

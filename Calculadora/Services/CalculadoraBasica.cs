@@ -33,10 +33,14 @@ namespace Calculadora.Services
             return resultado;
         }
 
-        public int Dividir(int n1, int n2)
+        public decimal Dividir(decimal n1, decimal n2)
         {
-            int resultado = n1 / n2;
-            historicoLista.Insert(0, "Res:" + resultado);
+            if(n2 == 0)
+            {
+                throw new DivideByZeroException("Não épossivel dividr por zero.");
+            }
+            decimal resultado = n1 / n2;
+            historicoLista.Insert(0, "Res:" + resultado.ToString("N2"));
             return resultado;
         }
         public decimal Porcentagem(decimal n1, decimal n2)
