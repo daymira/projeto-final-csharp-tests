@@ -37,7 +37,7 @@ namespace Calculadora.Services
         {
             if(n2 == 0)
             {
-                throw new DivideByZeroException("Não épossivel dividr por zero.");
+                throw new DivideByZeroException("Não é possivel dividr por zero.");
             }
             decimal resultado = n1 / n2;
             historicoLista.Insert(0, "Res:" + resultado.ToString("N2"));
