@@ -1,0 +1,14 @@
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\User\visual-csharp\projeto-final-csharp-tests\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
