@@ -2,8 +2,8 @@
 
 #### Calculadora Básica
 
-![Imagem do console](img\img1.png)
+![Imagem do console](img/img1.png)
 
 #### Testes executados
 
-![Imagem do console](img\img2.png)
+![Imagem do console](img/img2.png)
